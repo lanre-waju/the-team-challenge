@@ -50,17 +50,17 @@ h1 {
     grid-template-rows: 1fr 1fr;
 }
 
-.members {
+.profiles {
     padding: 2em;
 }
 
-.member2,
-.member5 {
+.profile2,
+.profile5 {
     padding: 5em 2em 0 2em;
     top: 1em;
 }
 
-.members p {
+.profiles p {
     font-family: "Poppins", sans-serif;
     font-size: 2rem;
     font-weight: 600;
@@ -107,14 +107,14 @@ footer {
         grid-template-columns: 1fr 1fr;
         grid-template-rows: 1fr 1fr 1fr;
     }
-    .members p {
+    .profiles p {
         font-size: 1rem;
     }
-    .member4 {
+    .profile4 {
         padding: 5em 2em 0 2em;
         top: 1em;
     }
-    .member6 {
+    .profile6 {
         padding: 8em 2em 0 2em;
         top: 1em;
     }
